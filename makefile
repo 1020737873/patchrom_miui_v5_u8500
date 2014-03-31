@@ -1,13 +1,12 @@
 #
 # Makefile for SDNA u8500
 #
-DATE :=$(date +%Y%m%d)
 
 # The original zip file, MUST be specified by each product
 local-zip-file     := stockrom.zip
 
 # The output zip file of MIUI rom, the default is porting_miui.zip if not specified
-local-out-zip-file := MIUI_v5_Bambook_u8500_${DATE}.zip
+local-out-zip-file := MIUI_v5_Bambook_u8500.zip
 
 # All apps from original ZIP, but has smali files chanded
 local-modified-apps :=
