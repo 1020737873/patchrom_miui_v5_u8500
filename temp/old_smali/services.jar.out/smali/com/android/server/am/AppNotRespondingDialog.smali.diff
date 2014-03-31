@@ -1,0 +1,23 @@
+*** ./smali/com/android/server/am/AppNotRespondingDialog.smali	2014-04-01 01:03:37.542475237 +0800
+--- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/AppNotRespondingDialog.smali	2014-04-01 01:01:54.850475797 +0800
+***************
+*** 300,305 ****
+--- 300,317 ----
+  
+  
+  # virtual methods
++ .method getProc()Lcom/android/server/am/ProcessRecord;
++     .locals 1
++     .annotation build Landroid/annotation/MiuiHook;
++         value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->NEW_METHOD:Landroid/annotation/MiuiHook$MiuiHookType;
++     .end annotation
++ 
++     .prologue
++     iget-object v0, p0, Lcom/android/server/am/AppNotRespondingDialog;->mProc:Lcom/android/server/am/ProcessRecord;
++ 
++     return-object v0
++ .end method
++ 
+  .method public onStop()V
+      .locals 0
+  

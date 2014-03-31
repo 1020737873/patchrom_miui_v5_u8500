@@ -1,0 +1,14 @@
+*** ./smali/com/android/internal/telephony/CallerInfoAsyncQuery$CallerInfoAsyncQueryHandler.smali	2014-04-01 01:05:15.166474706 +0800
+--- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/CallerInfoAsyncQuery$CallerInfoAsyncQueryHandler.smali	2014-04-01 01:03:29.786475280 +0800
+***************
+*** 112,117 ****
+--- 111,119 ----
+      .parameter "token"
+      .parameter "cookie"
+      .parameter "cursor"
++     .annotation build Landroid/annotation/MiuiHook;
++         value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->CHANGE_CODE:Landroid/annotation/MiuiHook$MiuiHookType;
++     .end annotation
+  
+      .prologue
+      const/4 v6, 0x3

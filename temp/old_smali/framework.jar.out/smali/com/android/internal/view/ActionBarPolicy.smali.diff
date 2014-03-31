@@ -1,0 +1,15 @@
+*** ./smali/com/android/internal/view/ActionBarPolicy.smali	2014-04-01 01:05:05.430474759 +0800
+--- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/ActionBarPolicy.smali	2014-04-01 01:03:20.166475333 +0800
+***************
+*** 227,232 ****
+--- 227,236 ----
+      .locals 1
+  
+      .prologue
++     const/4 v0, 0x1
++     
++     return v0
++     
+      iget-object v0, p0, Lcom/android/internal/view/ActionBarPolicy;->mContext:Landroid/content/Context;
+  
+      invoke-static {v0}, Landroid/view/ViewConfiguration;->get(Landroid/content/Context;)Landroid/view/ViewConfiguration;

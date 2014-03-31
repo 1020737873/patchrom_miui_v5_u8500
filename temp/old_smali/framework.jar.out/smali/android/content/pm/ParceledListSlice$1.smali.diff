@@ -1,0 +1,14 @@
+*** ./smali/android/content/pm/ParceledListSlice$1.smali	2014-04-01 01:04:38.582474905 +0800
+--- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/ParceledListSlice$1.smali	2014-04-01 01:02:55.454475466 +0800
+***************
+*** 112,117 ****
+--- 112,120 ----
+  
+      invoke-direct {v5}, Landroid/content/pm/ParceledListSlice;-><init>()V
+  
++     .local v5, list:Landroid/content/pm/ParceledListSlice;
++     invoke-virtual {v5, v0}, Landroid/content/pm/ParceledListSlice;->setLastSlice(Z)V
++ 
+      goto :goto_1
+  .end method
+  

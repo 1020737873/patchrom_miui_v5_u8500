@@ -1,0 +1,16 @@
+*** ./smali/android/media/AudioRecord.smali	2014-04-01 01:04:03.654475095 +0800
+--- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/AudioRecord.smali	2014-04-01 01:02:19.562475661 +0800
+***************
+*** 1220,1222 ****
+--- 1220,1230 ----
+  
+      throw v0
+  .end method
++ 
++ .method public setParameters(Ljava/lang/String;)I
++     .locals 1
++ 
++     const/4 v0, 0x0
++ 
++     return v0
++ .end method
