@@ -1,5 +1,5 @@
-*** ./smali/android/content/ContentResolver.smali	2014-04-01 01:04:36.482474918 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/ContentResolver.smali	2014-04-01 01:02:53.162475480 +0800
+*** ./smali/android/content/ContentResolver.smali	2014-04-22 17:18:17.385462941 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/ContentResolver.smali	2014-04-22 17:16:34.277463502 +0800
 ***************
 *** 3805,3811 ****
   .end method

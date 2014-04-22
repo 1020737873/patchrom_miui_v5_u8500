@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/AppErrorDialog$1.smali	2014-04-01 01:03:37.430475239 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/AppErrorDialog$1.smali	2014-04-01 01:01:54.714475798 +0800
+*** ./smali/com/android/server/am/AppErrorDialog$1.smali	2014-04-22 17:17:19.261463257 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/AppErrorDialog$1.smali	2014-04-22 17:15:40.381463795 +0800
 ***************
 *** 36,45 ****
 --- 36,52 ----

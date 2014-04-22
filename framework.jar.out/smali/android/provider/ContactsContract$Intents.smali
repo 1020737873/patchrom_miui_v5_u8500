@@ -78,9 +78,7 @@
     .locals 0
 
     .prologue
-    .line 7816
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
-    .line 8078
     return-void
 .end method

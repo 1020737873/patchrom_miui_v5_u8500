@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ActivityStack.smali	2014-04-01 01:03:37.202475239 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStack.smali	2014-04-01 01:01:54.422475798 +0800
+*** ./smali/com/android/server/am/ActivityStack.smali	2014-04-22 17:17:18.993463258 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityStack.smali	2014-04-22 17:15:40.113463796 +0800
 ***************
 *** 5432,5438 ****
       check-cast v3, Lcom/android/server/am/ActivityRecord;

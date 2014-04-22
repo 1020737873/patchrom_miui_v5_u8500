@@ -67,7 +67,6 @@
 
     iput-object v0, p0, Landroid/content/pm/PackageParser$PackageLite;->verifiers:[Landroid/content/pm/VerifierInfo;
 
-    .line 213
     return-void
 .end method
 

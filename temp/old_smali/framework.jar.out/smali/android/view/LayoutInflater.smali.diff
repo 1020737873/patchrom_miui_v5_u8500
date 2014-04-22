@@ -1,5 +1,5 @@
-*** ./smali/android/view/LayoutInflater.smali	2014-04-01 01:03:55.470475141 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/LayoutInflater.smali	2014-04-01 01:02:11.626475706 +0800
+*** ./smali/android/view/LayoutInflater.smali	2014-04-22 17:17:36.177463165 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/LayoutInflater.smali	2014-04-22 17:15:56.521463707 +0800
 ***************
 *** 1503,1508 ****
 --- 1503,1516 ----

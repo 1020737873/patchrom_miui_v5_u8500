@@ -1,5 +1,5 @@
-*** ./smali/android/view/ViewRootImpl$ViewRootHandler.smali	2014-04-01 01:03:53.090475154 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl$ViewRootHandler.smali	2014-04-01 01:02:09.834475714 +0800
+*** ./smali/android/view/ViewRootImpl$ViewRootHandler.smali	2014-04-22 17:17:34.173463176 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/ViewRootImpl$ViewRootHandler.smali	2014-04-22 17:15:54.593463717 +0800
 ***************
 *** 197,202 ****
 --- 197,205 ----

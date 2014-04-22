@@ -1,5 +1,5 @@
-*** ./smali/android/view/inputmethod/InputMethodManager.smali	2014-04-01 01:03:53.862475150 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/inputmethod/InputMethodManager.smali	2014-04-01 01:02:10.502475712 +0800
+*** ./smali/android/view/inputmethod/InputMethodManager.smali	2014-04-22 17:17:34.917463172 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/inputmethod/InputMethodManager.smali	2014-04-22 17:15:55.313463714 +0800
 ***************
 *** 3352,3357 ****
 --- 3352,3359 ----

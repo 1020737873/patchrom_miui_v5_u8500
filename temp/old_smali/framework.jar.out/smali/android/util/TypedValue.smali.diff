@@ -1,5 +1,5 @@
-*** ./smali/android/util/TypedValue.smali	2014-04-01 01:04:20.430475004 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/util/TypedValue.smali	2014-04-01 01:02:37.354475566 +0800
+*** ./smali/android/util/TypedValue.smali	2014-04-22 17:18:01.081463030 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/util/TypedValue.smali	2014-04-22 17:16:19.681463581 +0800
 ***************
 *** 88,93 ****
 --- 88,99 ----

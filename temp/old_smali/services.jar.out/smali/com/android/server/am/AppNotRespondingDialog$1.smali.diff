@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/AppNotRespondingDialog$1.smali	2014-04-01 01:03:36.674475242 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/AppNotRespondingDialog$1.smali	2014-04-01 01:01:53.778475803 +0800
+*** ./smali/com/android/server/am/AppNotRespondingDialog$1.smali	2014-04-22 17:17:18.377463262 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/AppNotRespondingDialog$1.smali	2014-04-22 17:15:39.513463799 +0800
 ***************
 *** 36,43 ****
 --- 36,62 ----

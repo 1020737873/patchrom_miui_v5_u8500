@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/AdnRecord.smali	2014-04-01 01:05:13.530474715 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecord.smali	2014-04-01 01:03:28.202475288 +0800
+*** ./smali/com/android/internal/telephony/AdnRecord.smali	2014-04-22 17:18:53.697462743 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecord.smali	2014-04-22 17:17:09.481463310 +0800
 ***************
 *** 6,11 ****
 --- 6,19 ----

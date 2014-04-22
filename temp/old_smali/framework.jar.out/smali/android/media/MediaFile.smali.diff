@@ -1,5 +1,5 @@
-*** ./smali/android/media/MediaFile.smali	2014-04-01 01:04:05.594475086 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/MediaFile.smali	2014-04-01 01:02:21.058475653 +0800
+*** ./smali/android/media/MediaFile.smali	2014-04-22 17:17:45.517463114 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/MediaFile.smali	2014-04-22 17:16:05.553463658 +0800
 ***************
 *** 6,12 ****
   # annotations

@@ -1,5 +1,5 @@
-*** ./smali/android/widget/OverScroller$SplineOverScroller.smali	2014-04-01 01:04:34.618474928 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller$SplineOverScroller.smali	2014-04-01 01:02:51.422475488 +0800
+*** ./smali/android/widget/OverScroller$SplineOverScroller.smali	2014-04-22 17:18:15.633462950 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller$SplineOverScroller.smali	2014-04-22 17:16:32.681463510 +0800
 ***************
 *** 51,56 ****
 --- 51,58 ----

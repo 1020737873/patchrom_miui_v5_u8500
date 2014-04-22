@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/SMSDispatcher.smali	2014-04-01 01:05:18.342474689 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/SMSDispatcher.smali	2014-04-01 01:03:32.602475264 +0800
+*** ./smali/com/android/internal/telephony/SMSDispatcher.smali	2014-04-22 17:18:58.041462720 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/SMSDispatcher.smali	2014-04-22 17:17:14.261463284 +0800
 ***************
 *** 7,13 ****
   .annotation system Ldalvik/annotation/MemberClasses;

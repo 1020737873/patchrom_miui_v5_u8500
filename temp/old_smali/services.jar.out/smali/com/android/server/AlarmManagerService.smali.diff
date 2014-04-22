@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/AlarmManagerService.smali	2014-04-01 01:03:40.390475223 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AlarmManagerService.smali	2014-04-01 01:01:58.046475778 +0800
+*** ./smali/com/android/server/AlarmManagerService.smali	2014-04-22 17:17:22.521463239 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AlarmManagerService.smali	2014-04-22 17:15:43.489463778 +0800
 ***************
 *** 2055,2061 ****
   .end method

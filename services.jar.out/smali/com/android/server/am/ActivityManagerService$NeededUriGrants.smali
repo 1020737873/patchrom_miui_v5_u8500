@@ -39,18 +39,13 @@
     .parameter "_flags"
 
     .prologue
-    .line 5077
     invoke-direct {p0}, Ljava/util/ArrayList;-><init>()V
 
-    .line 5078
     iput-object p1, p0, Lcom/android/server/am/ActivityManagerService$NeededUriGrants;->targetPkg:Ljava/lang/String;
 
-    .line 5079
     iput p2, p0, Lcom/android/server/am/ActivityManagerService$NeededUriGrants;->targetUid:I
 
-    .line 5080
     iput p3, p0, Lcom/android/server/am/ActivityManagerService$NeededUriGrants;->flags:I
 
-    .line 5081
     return-void
 .end method

@@ -1,5 +1,5 @@
-*** ./smali/android/media/AudioRecord.smali	2014-04-01 01:04:03.654475095 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/AudioRecord.smali	2014-04-01 01:02:19.562475661 +0800
+*** ./smali/android/media/AudioRecord.smali	2014-04-22 17:17:43.829463123 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/AudioRecord.smali	2014-04-22 17:16:03.957463667 +0800
 ***************
 *** 1220,1222 ****
 --- 1220,1230 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/ScrollingTabContainerView.smali	2014-04-01 01:05:10.894474731 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/ScrollingTabContainerView.smali	2014-04-01 01:03:25.570475302 +0800
+*** ./smali/com/android/internal/widget/ScrollingTabContainerView.smali	2014-04-22 17:18:50.969462758 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/ScrollingTabContainerView.smali	2014-04-22 17:17:06.797463325 +0800
 ***************
 *** 176,181 ****
 --- 176,184 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/webkit/WebSettings.smali	2014-04-01 01:04:24.362474984 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/webkit/WebSettings.smali	2014-04-01 01:02:41.202475545 +0800
+*** ./smali/android/webkit/WebSettings.smali	2014-04-22 17:18:04.717463010 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/webkit/WebSettings.smali	2014-04-22 17:16:23.081463563 +0800
 ***************
 *** 78,83 ****
 --- 78,106 ----

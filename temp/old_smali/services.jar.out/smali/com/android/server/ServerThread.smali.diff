@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/ServerThread.smali	2014-04-01 01:03:39.614475226 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/ServerThread.smali	2014-04-01 01:01:57.178475783 +0800
+*** ./smali/com/android/server/ServerThread.smali	2014-04-22 17:17:21.769463243 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/ServerThread.smali	2014-04-22 17:15:42.773463782 +0800
 ***************
 *** 113,118 ****
 --- 113,121 ----

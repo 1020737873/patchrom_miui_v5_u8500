@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/os/ZygoteInit.smali	2014-04-01 01:05:07.034474752 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/os/ZygoteInit.smali	2014-04-01 01:03:21.598475324 +0800
+*** ./smali/com/android/internal/os/ZygoteInit.smali	2014-04-22 17:18:47.033462780 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/os/ZygoteInit.smali	2014-04-22 17:17:02.789463347 +0800
 ***************
 *** 419,424 ****
 --- 419,426 ----

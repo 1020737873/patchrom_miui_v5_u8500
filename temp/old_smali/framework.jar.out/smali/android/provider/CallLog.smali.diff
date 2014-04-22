@@ -1,5 +1,5 @@
-*** ./smali/android/provider/CallLog.smali	2014-04-01 01:04:43.262474881 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/provider/CallLog.smali	2014-04-01 01:02:59.462475444 +0800
+*** ./smali/android/provider/CallLog.smali	2014-04-22 17:18:24.233462904 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/provider/CallLog.smali	2014-04-22 17:16:40.717463467 +0800
 ***************
 *** 6,12 ****
   # annotations

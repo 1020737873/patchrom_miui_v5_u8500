@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/AttributeCache.smali	2014-04-01 01:03:44.106475203 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AttributeCache.smali	2014-04-01 01:02:02.262475755 +0800
+*** ./smali/com/android/server/AttributeCache.smali	2014-04-22 17:17:26.509463218 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AttributeCache.smali	2014-04-22 17:15:47.309463757 +0800
 ***************
 *** 114,125 ****
       :try_start_0

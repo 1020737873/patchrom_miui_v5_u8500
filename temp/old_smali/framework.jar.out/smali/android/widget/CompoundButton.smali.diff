@@ -1,5 +1,5 @@
-*** ./smali/android/widget/CompoundButton.smali	2014-04-01 01:04:32.434474940 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/CompoundButton.smali	2014-04-01 01:02:49.682475499 +0800
+*** ./smali/android/widget/CompoundButton.smali	2014-04-22 17:18:13.577462962 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/CompoundButton.smali	2014-04-22 17:16:30.933463520 +0800
 ***************
 *** 209,214 ****
 --- 209,223 ----

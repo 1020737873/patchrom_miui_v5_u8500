@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/PhoneProxy.smali	2014-04-01 01:05:13.026474718 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneProxy.smali	2014-04-01 01:03:27.646475291 +0800
+*** ./smali/com/android/internal/telephony/PhoneProxy.smali	2014-04-22 17:18:53.205462746 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneProxy.smali	2014-04-22 17:17:08.973463313 +0800
 ***************
 *** 83,95 ****
   

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/StatusBarManagerService.smali	2014-04-01 01:03:43.002475209 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/StatusBarManagerService.smali	2014-04-01 01:02:01.026475762 +0800
+*** ./smali/com/android/server/StatusBarManagerService.smali	2014-04-22 17:17:25.425463224 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/StatusBarManagerService.smali	2014-04-22 17:15:46.285463763 +0800
 ***************
 *** 69,74 ****
 --- 69,89 ----

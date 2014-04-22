@@ -1,5 +1,5 @@
-*** ./smali/android/widget/SuggestionsAdapter.smali	2014-04-01 01:04:29.394474955 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/SuggestionsAdapter.smali	2014-04-01 01:02:46.522475516 +0800
+*** ./smali/android/widget/SuggestionsAdapter.smali	2014-04-22 17:18:09.925462982 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/SuggestionsAdapter.smali	2014-04-22 17:16:27.809463537 +0800
 ***************
 *** 9,15 ****
   # annotations

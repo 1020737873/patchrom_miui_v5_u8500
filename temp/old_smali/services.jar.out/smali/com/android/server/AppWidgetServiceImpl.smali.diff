@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/AppWidgetServiceImpl.smali	2014-04-01 01:03:42.766475210 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AppWidgetServiceImpl.smali	2014-04-01 01:02:00.762475765 +0800
+*** ./smali/com/android/server/AppWidgetServiceImpl.smali	2014-04-22 17:17:25.141463225 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/AppWidgetServiceImpl.smali	2014-04-22 17:15:46.037463764 +0800
 ***************
 *** 9,15 ****
           Lcom/android/server/AppWidgetServiceImpl$ServiceConnectionProxy;,

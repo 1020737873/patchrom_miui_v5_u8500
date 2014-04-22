@@ -1,5 +1,5 @@
-*** ./smali/android/graphics/drawable/Drawable.smali	2014-04-01 01:05:00.806474786 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/graphics/drawable/Drawable.smali	2014-04-01 01:03:16.014475354 +0800
+*** ./smali/android/graphics/drawable/Drawable.smali	2014-04-22 17:18:40.845462813 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/graphics/drawable/Drawable.smali	2014-04-22 17:16:56.977463378 +0800
 ***************
 *** 33,38 ****
 --- 33,44 ----

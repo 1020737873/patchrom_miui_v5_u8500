@@ -1,5 +1,5 @@
-*** ./smali/android/widget/NumberPicker.smali	2014-04-01 01:04:30.774474949 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/NumberPicker.smali	2014-04-01 01:02:47.974475508 +0800
+*** ./smali/android/widget/NumberPicker.smali	2014-04-22 17:18:11.317462974 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/NumberPicker.smali	2014-04-22 17:16:29.197463529 +0800
 ***************
 *** 31,39 ****
   

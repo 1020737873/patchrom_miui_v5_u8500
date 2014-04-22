@@ -1,5 +1,5 @@
-*** ./smali/android/view/ViewConfiguration.smali	2014-04-01 01:03:49.814475172 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/ViewConfiguration.smali	2014-04-01 01:02:06.974475731 +0800
+*** ./smali/android/view/ViewConfiguration.smali	2014-04-22 17:17:31.457463191 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/ViewConfiguration.smali	2014-04-22 17:15:52.021463731 +0800
 ***************
 *** 334,339 ****
 --- 334,343 ----

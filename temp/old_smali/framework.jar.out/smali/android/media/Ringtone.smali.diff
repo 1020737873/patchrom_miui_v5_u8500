@@ -1,5 +1,5 @@
-*** ./smali/android/media/Ringtone.smali	2014-04-01 01:04:05.890475083 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/Ringtone.smali	2014-04-01 01:02:21.570475650 +0800
+*** ./smali/android/media/Ringtone.smali	2014-04-22 17:17:45.889463112 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/Ringtone.smali	2014-04-22 17:16:05.869463656 +0800
 ***************
 *** 596,603 ****
 --- 596,616 ----

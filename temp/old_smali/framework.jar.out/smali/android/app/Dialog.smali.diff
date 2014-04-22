@@ -1,5 +1,5 @@
-*** ./smali/android/app/Dialog.smali	2014-04-01 01:04:18.654475015 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/Dialog.smali	2014-04-01 01:02:35.026475577 +0800
+*** ./smali/android/app/Dialog.smali	2014-04-22 17:17:59.205463040 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/Dialog.smali	2014-04-22 17:16:17.969463590 +0800
 ***************
 *** 197,202 ****
 --- 197,204 ----

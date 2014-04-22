@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceScreen.smali	2014-04-01 01:04:07.646475075 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceScreen.smali	2014-04-01 01:02:23.158475643 +0800
+*** ./smali/android/preference/PreferenceScreen.smali	2014-04-22 17:17:47.585463103 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceScreen.smali	2014-04-22 17:16:07.493463647 +0800
 ***************
 *** 40,45 ****
 --- 40,48 ----

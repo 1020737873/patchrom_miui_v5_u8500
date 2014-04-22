@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView$AccountAnalyzer.smali	2014-04-01 01:03:33.122475261 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView$AccountAnalyzer.smali	2014-04-01 01:01:50.214475822 +0800
+*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView$AccountAnalyzer.smali	2014-04-22 17:17:14.829463281 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView$AccountAnalyzer.smali	2014-04-22 17:15:36.133463818 +0800
 ***************
 *** 32,38 ****
   

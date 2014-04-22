@@ -1,5 +1,5 @@
-*** ./smali/android/speech/tts/TextToSpeech$Connection.smali	2014-04-01 01:04:52.774474828 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/speech/tts/TextToSpeech$Connection.smali	2014-04-01 01:03:09.622475389 +0800
+*** ./smali/android/speech/tts/TextToSpeech$Connection.smali	2014-04-22 17:18:34.281462849 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/speech/tts/TextToSpeech$Connection.smali	2014-04-22 17:16:50.613463413 +0800
 ***************
 *** 82,87 ****
 --- 82,117 ----

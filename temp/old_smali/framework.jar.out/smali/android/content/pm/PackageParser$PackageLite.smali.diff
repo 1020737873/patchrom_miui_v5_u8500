@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/PackageParser$PackageLite.smali	2014-04-01 01:04:38.898474905 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser$PackageLite.smali	2014-04-01 01:02:55.734475466 +0800
+*** ./smali/android/content/pm/PackageParser$PackageLite.smali	2014-04-22 17:18:20.041462926 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser$PackageLite.smali	2014-04-22 17:16:36.941463487 +0800
 ***************
 *** 21,31 ****
   

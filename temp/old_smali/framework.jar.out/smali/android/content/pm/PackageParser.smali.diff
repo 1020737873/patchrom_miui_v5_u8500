@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/PackageParser.smali	2014-04-01 01:04:39.178474902 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser.smali	2014-04-01 01:02:56.010475463 +0800
+*** ./smali/android/content/pm/PackageParser.smali	2014-04-22 17:18:20.337462925 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageParser.smali	2014-04-22 17:16:37.233463486 +0800
 ***************
 *** 21,27 ****
           Landroid/content/pm/PackageParser$ParseComponentArgs;,

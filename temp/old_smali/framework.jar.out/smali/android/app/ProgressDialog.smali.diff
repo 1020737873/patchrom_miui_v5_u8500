@@ -1,5 +1,5 @@
-*** ./smali/android/app/ProgressDialog.smali	2014-04-01 01:04:15.210475032 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ProgressDialog.smali	2014-04-01 01:02:30.950475599 +0800
+*** ./smali/android/app/ProgressDialog.smali	2014-04-22 17:17:55.409463060 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ProgressDialog.smali	2014-04-22 17:16:14.685463608 +0800
 ***************
 *** 641,646 ****
 --- 641,652 ----

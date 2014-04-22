@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/view/menu/MenuBuilder.smali	2014-04-01 01:05:05.786474757 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/MenuBuilder.smali	2014-04-01 01:03:20.402475332 +0800
+*** ./smali/com/android/internal/view/menu/MenuBuilder.smali	2014-04-22 17:18:45.749462787 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/MenuBuilder.smali	2014-04-22 17:17:01.505463354 +0800
 ***************
 *** 2475,2480 ****
 --- 2475,2528 ----

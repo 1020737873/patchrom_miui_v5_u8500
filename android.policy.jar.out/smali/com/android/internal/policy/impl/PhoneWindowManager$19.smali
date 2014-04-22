@@ -27,7 +27,6 @@
     .parameter
 
     .prologue
-    .line 4103
     iput-object p1, p0, Lcom/android/internal/policy/impl/PhoneWindowManager$19;->this$0:Lcom/android/internal/policy/impl/PhoneWindowManager;
 
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
@@ -41,10 +40,8 @@
     .locals 2
 
     .prologue
-    .line 4105
     monitor-enter p0
 
-    .line 4107
     :try_start_0
     iget-object v0, p0, Lcom/android/internal/policy/impl/PhoneWindowManager$19;->this$0:Lcom/android/internal/policy/impl/PhoneWindowManager;
 
@@ -65,13 +62,10 @@
 
     iput-boolean v1, v0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mLockScreenTimerActive:Z
 
-    .line 4111
     monitor-exit p0
 
-    .line 4112
     return-void
 
-    .line 4111
     :catchall_0
     move-exception v0
 

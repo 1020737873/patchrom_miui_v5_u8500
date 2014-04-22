@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiManager.smali	2014-04-01 01:04:48.746474850 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiManager.smali	2014-04-01 01:03:05.206475413 +0800
+*** ./smali/android/net/wifi/WifiManager.smali	2014-04-22 17:18:30.177462871 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiManager.smali	2014-04-22 17:16:46.529463435 +0800
 ***************
 *** 1122,1127 ****
 --- 1122,1161 ----

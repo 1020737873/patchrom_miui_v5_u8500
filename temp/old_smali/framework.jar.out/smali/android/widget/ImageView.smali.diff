@@ -1,5 +1,5 @@
-*** ./smali/android/widget/ImageView.smali	2014-04-01 01:04:29.162474958 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/ImageView.smali	2014-04-01 01:02:46.382475517 +0800
+*** ./smali/android/widget/ImageView.smali	2014-04-22 17:18:09.765462982 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/ImageView.smali	2014-04-22 17:16:27.653463538 +0800
 ***************
 *** 1177,1183 ****
   

@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceFrameLayout$LayoutParams.smali	2014-04-01 01:04:07.018475077 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceFrameLayout$LayoutParams.smali	2014-04-01 01:02:22.550475645 +0800
+*** ./smali/android/preference/PreferenceFrameLayout$LayoutParams.smali	2014-04-22 17:17:46.937463107 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceFrameLayout$LayoutParams.smali	2014-04-22 17:16:06.885463651 +0800
 ***************
 *** 59,64 ****
 --- 59,72 ----

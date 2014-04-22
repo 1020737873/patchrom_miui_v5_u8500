@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/net/NetworkPolicyManagerService.smali	2014-04-01 01:03:41.610475215 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/net/NetworkPolicyManagerService.smali	2014-04-01 01:01:59.526475770 +0800
+*** ./smali/com/android/server/net/NetworkPolicyManagerService.smali	2014-04-22 17:17:23.853463232 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/net/NetworkPolicyManagerService.smali	2014-04-22 17:15:44.769463771 +0800
 ***************
 *** 6,12 ****
   # annotations

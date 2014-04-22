@@ -1,5 +1,5 @@
-*** ./smali/android/database/CursorWindow.smali	2014-04-01 01:03:46.002475191 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/database/CursorWindow.smali	2014-04-01 01:02:04.262475746 +0800
+*** ./smali/android/database/CursorWindow.smali	2014-04-22 17:17:28.401463207 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/database/CursorWindow.smali	2014-04-22 17:15:49.161463747 +0800
 ***************
 *** 635,640 ****
 --- 635,644 ----

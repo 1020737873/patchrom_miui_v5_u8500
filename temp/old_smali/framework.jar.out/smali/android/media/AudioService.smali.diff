@@ -1,5 +1,5 @@
-*** ./smali/android/media/AudioService.smali	2014-04-01 01:04:03.758475096 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/AudioService.smali	2014-04-01 01:02:19.650475662 +0800
+*** ./smali/android/media/AudioService.smali	2014-04-22 17:17:43.929463123 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/AudioService.smali	2014-04-22 17:16:04.049463666 +0800
 ***************
 *** 24,30 ****
           Landroid/media/AudioService$SoundPoolCallback;,

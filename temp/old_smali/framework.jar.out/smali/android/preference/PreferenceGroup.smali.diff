@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceGroup.smali	2014-04-01 01:04:07.274475077 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceGroup.smali	2014-04-01 01:02:22.790475645 +0800
+*** ./smali/android/preference/PreferenceGroup.smali	2014-04-22 17:17:47.201463105 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceGroup.smali	2014-04-22 17:16:07.125463649 +0800
 ***************
 *** 257,262 ****
 --- 257,264 ----

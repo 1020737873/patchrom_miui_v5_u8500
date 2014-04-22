@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView$3.smali	2014-04-01 01:03:33.974475258 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView$3.smali	2014-04-01 01:01:50.958475818 +0800
+*** ./smali/com/android/internal/policy/impl/LockPatternKeyguardView$3.smali	2014-04-22 17:17:15.593463277 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/LockPatternKeyguardView$3.smali	2014-04-22 17:15:36.877463814 +0800
 ***************
 *** 7,14 ****
   

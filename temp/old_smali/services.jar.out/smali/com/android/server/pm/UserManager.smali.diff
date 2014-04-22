@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/UserManager.smali	2014-04-01 01:03:44.842475199 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/UserManager.smali	2014-04-01 01:02:03.182475750 +0800
+*** ./smali/com/android/server/pm/UserManager.smali	2014-04-22 17:17:27.329463213 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/UserManager.smali	2014-04-22 17:15:48.109463753 +0800
 ***************
 *** 1689,1695 ****
 --- 1689,1705 ----

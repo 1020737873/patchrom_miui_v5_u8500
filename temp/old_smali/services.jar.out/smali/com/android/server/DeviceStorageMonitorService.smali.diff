@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/DeviceStorageMonitorService.smali	2014-04-01 01:03:41.046475218 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/DeviceStorageMonitorService.smali	2014-04-01 01:01:58.878475775 +0800
+*** ./smali/com/android/server/DeviceStorageMonitorService.smali	2014-04-22 17:17:23.261463235 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/DeviceStorageMonitorService.smali	2014-04-22 17:15:44.201463774 +0800
 ***************
 *** 1050,1055 ****
 --- 1050,1057 ----

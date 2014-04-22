@@ -1,5 +1,5 @@
-*** ./smali/android/accounts/AccountManagerService.smali	2014-04-01 01:04:44.398474875 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/accounts/AccountManagerService.smali	2014-04-01 01:03:00.626475438 +0800
+*** ./smali/android/accounts/AccountManagerService.smali	2014-04-22 17:18:25.501462897 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/accounts/AccountManagerService.smali	2014-04-22 17:16:41.913463460 +0800
 ***************
 *** 15,21 ****
           Landroid/accounts/AccountManagerService$GetAccountsByTypeAndFeatureSession;,

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/app/ResolverActivity.smali	2014-04-01 01:05:07.982474746 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/app/ResolverActivity.smali	2014-04-01 01:03:22.518475319 +0800
+*** ./smali/com/android/internal/app/ResolverActivity.smali	2014-04-22 17:18:48.029462774 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/app/ResolverActivity.smali	2014-04-22 17:17:03.817463341 +0800
 ***************
 *** 11,17 ****
       value = {

@@ -1,5 +1,5 @@
-*** ./smali/android/widget/OverScroller.smali	2014-04-01 01:04:34.538474927 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller.smali	2014-04-01 01:02:51.322475490 +0800
+*** ./smali/android/widget/OverScroller.smali	2014-04-22 17:18:15.533462951 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/OverScroller.smali	2014-04-22 17:16:32.593463511 +0800
 ***************
 *** 30,35 ****
 --- 30,37 ----

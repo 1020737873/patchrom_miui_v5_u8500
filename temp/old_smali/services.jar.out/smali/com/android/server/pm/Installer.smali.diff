@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/Installer.smali	2014-04-01 01:03:45.130475196 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/Installer.smali	2014-04-01 01:02:03.458475750 +0800
+*** ./smali/com/android/server/pm/Installer.smali	2014-04-22 17:17:27.645463211 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/Installer.smali	2014-04-22 17:15:48.421463751 +0800
 ***************
 *** 1,4 ****
 ! .class Lcom/android/server/pm/Installer;

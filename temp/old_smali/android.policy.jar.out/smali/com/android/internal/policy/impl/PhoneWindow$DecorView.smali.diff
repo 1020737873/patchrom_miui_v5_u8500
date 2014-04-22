@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneWindow$DecorView.smali	2014-04-01 01:03:35.382475249 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindow$DecorView.smali	2014-04-01 01:01:52.326475811 +0800
+*** ./smali/com/android/internal/policy/impl/PhoneWindow$DecorView.smali	2014-04-22 17:17:16.989463269 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindow$DecorView.smali	2014-04-22 17:15:38.193463807 +0800
 ***************
 *** 4,18 ****
   

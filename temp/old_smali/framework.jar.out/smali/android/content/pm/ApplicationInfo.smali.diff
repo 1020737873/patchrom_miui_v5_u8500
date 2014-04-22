@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/ApplicationInfo.smali	2014-04-01 01:04:38.230474907 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/ApplicationInfo.smali	2014-04-01 01:02:55.030475470 +0800
+*** ./smali/android/content/pm/ApplicationInfo.smali	2014-04-22 17:18:19.353462930 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/ApplicationInfo.smali	2014-04-22 17:16:36.253463491 +0800
 ***************
 *** 26,31 ****
 --- 26,37 ----

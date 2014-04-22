@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/ConnectivityService.smali	2014-04-01 01:03:42.914475208 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/ConnectivityService.smali	2014-04-01 01:02:00.918475764 +0800
+*** ./smali/com/android/server/ConnectivityService.smali	2014-04-22 17:17:25.321463224 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/ConnectivityService.smali	2014-04-22 17:15:46.193463763 +0800
 ***************
 *** 10,16 ****
           Lcom/android/server/ConnectivityService$SettingsObserver;,

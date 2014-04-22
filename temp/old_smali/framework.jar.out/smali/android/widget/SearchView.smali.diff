@@ -1,5 +1,5 @@
-*** ./smali/android/widget/SearchView.smali	2014-04-01 01:04:33.430474933 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/SearchView.smali	2014-04-01 01:02:50.430475495 +0800
+*** ./smali/android/widget/SearchView.smali	2014-04-22 17:18:14.449462957 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/SearchView.smali	2014-04-22 17:16:31.689463516 +0800
 ***************
 *** 1398,1403 ****
 --- 1398,1413 ----

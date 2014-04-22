@@ -1,5 +1,5 @@
-*** ./smali/android/preference/RingtonePreference.smali	2014-04-01 01:04:08.130475072 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/RingtonePreference.smali	2014-04-01 01:02:23.574475641 +0800
+*** ./smali/android/preference/RingtonePreference.smali	2014-04-22 17:17:48.057463100 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/RingtonePreference.smali	2014-04-22 17:16:07.957463645 +0800
 ***************
 *** 258,263 ****
 --- 258,266 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneFallbackEventHandler.smali	2014-04-01 01:03:33.558475260 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneFallbackEventHandler.smali	2014-04-01 01:01:50.682475818 +0800
+*** ./smali/com/android/internal/policy/impl/PhoneFallbackEventHandler.smali	2014-04-22 17:17:15.277463279 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneFallbackEventHandler.smali	2014-04-22 17:15:36.573463815 +0800
 ***************
 *** 253,258 ****
 --- 253,268 ----

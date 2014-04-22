@@ -1,5 +1,5 @@
-*** ./smali/android/app/ApplicationPackageManager$ResourceName.smali	2014-04-01 01:04:14.610475037 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager$ResourceName.smali	2014-04-01 01:02:30.198475605 +0800
+*** ./smali/android/app/ApplicationPackageManager$ResourceName.smali	2014-04-22 17:17:54.729463064 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager$ResourceName.smali	2014-04-22 17:16:14.089463611 +0800
 ***************
 *** 4,15 ****
   

@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiStateMachine.smali	2014-04-01 01:04:48.022474854 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiStateMachine.smali	2014-04-01 01:03:04.422475417 +0800
+*** ./smali/android/net/wifi/WifiStateMachine.smali	2014-04-22 17:18:29.413462876 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiStateMachine.smali	2014-04-22 17:16:45.705463440 +0800
 ***************
 *** 3715,3720 ****
 --- 3715,3724 ----

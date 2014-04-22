@@ -1,5 +1,5 @@
-*** ./smali/android/widget/AbsListView$MultiChoiceModeWrapper.smali	2014-04-01 01:04:33.110474935 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/AbsListView$MultiChoiceModeWrapper.smali	2014-04-01 01:02:50.242475496 +0800
+*** ./smali/android/widget/AbsListView$MultiChoiceModeWrapper.smali	2014-04-22 17:18:14.249462958 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/AbsListView$MultiChoiceModeWrapper.smali	2014-04-22 17:16:31.485463517 +0800
 ***************
 *** 141,155 ****
   

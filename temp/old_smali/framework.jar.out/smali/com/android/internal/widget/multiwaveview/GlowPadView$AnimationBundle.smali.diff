@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/multiwaveview/GlowPadView$AnimationBundle.smali	2014-04-01 01:05:10.454474732 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/multiwaveview/GlowPadView$AnimationBundle.smali	2014-04-01 01:03:25.102475306 +0800
+*** ./smali/com/android/internal/widget/multiwaveview/GlowPadView$AnimationBundle.smali	2014-04-22 17:18:50.457462761 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/multiwaveview/GlowPadView$AnimationBundle.smali	2014-04-22 17:17:06.305463327 +0800
 ***************
 *** 4,15 ****
   

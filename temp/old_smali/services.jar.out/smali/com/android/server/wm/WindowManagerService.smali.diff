@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/WindowManagerService.smali	2014-04-01 01:03:39.218475228 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowManagerService.smali	2014-04-01 01:01:56.690475787 +0800
+*** ./smali/com/android/server/wm/WindowManagerService.smali	2014-04-22 17:17:21.345463246 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowManagerService.smali	2014-04-22 17:15:42.365463784 +0800
 ***************
 *** 5403,5408 ****
 --- 5403,5417 ----

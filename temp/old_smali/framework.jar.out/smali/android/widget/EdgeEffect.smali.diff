@@ -1,5 +1,5 @@
-*** ./smali/android/widget/EdgeEffect.smali	2014-04-01 01:04:26.950474970 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/EdgeEffect.smali	2014-04-01 01:02:43.654475530 +0800
+*** ./smali/android/widget/EdgeEffect.smali	2014-04-22 17:18:07.257462996 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/EdgeEffect.smali	2014-04-22 17:16:25.337463550 +0800
 ***************
 *** 136,152 ****
       move-result-object v0

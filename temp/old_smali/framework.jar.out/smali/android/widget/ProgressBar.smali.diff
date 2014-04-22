@@ -1,5 +1,5 @@
-*** ./smali/android/widget/ProgressBar.smali	2014-04-01 01:04:28.346474961 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/ProgressBar.smali	2014-04-01 01:02:45.546475520 +0800
+*** ./smali/android/widget/ProgressBar.smali	2014-04-22 17:18:08.781462988 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/ProgressBar.smali	2014-04-22 17:16:26.801463542 +0800
 ***************
 *** 296,302 ****
   

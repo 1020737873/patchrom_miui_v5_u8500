@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2014-04-01 01:03:33.402475261 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2014-04-01 01:01:50.526475819 +0800
+*** ./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2014-04-22 17:17:15.117463280 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager.smali	2014-04-22 17:15:36.413463816 +0800
 ***************
 *** 13,19 ****
           Lcom/android/internal/policy/impl/PhoneWindowManager$MyOrientationListener;,

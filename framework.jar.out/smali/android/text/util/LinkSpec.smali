@@ -1,22 +1,36 @@
-.class Landroid/text/util/LinkSpec;
+.class public Landroid/text/util/LinkSpec;
 .super Ljava/lang/Object;
 .source "Linkify.java"
 
 
+# annotations
+.annotation build Landroid/annotation/MiuiHook;
+    value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->CHANGE_CODE_AND_ACCESS:Landroid/annotation/MiuiHook$MiuiHookType;
+.end annotation
+
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Landroid/text/util/Linkify;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "LinkSpec"
+.end annotation
+
+
 # instance fields
-.field end:I
+.field public end:I
 
-.field start:I
+.field public start:I
 
-.field url:Ljava/lang/String;
+.field public url:Ljava/lang/String;
 
 
 # direct methods
-.method constructor <init>()V
+.method public constructor <init>()V
     .locals 0
 
     .prologue
-    .line 539
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void

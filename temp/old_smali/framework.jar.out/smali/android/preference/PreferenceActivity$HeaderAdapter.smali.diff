@@ -1,5 +1,5 @@
-*** ./smali/android/preference/PreferenceActivity$HeaderAdapter.smali	2014-04-01 01:04:07.982475073 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceActivity$HeaderAdapter.smali	2014-04-01 01:02:23.466475640 +0800
+*** ./smali/android/preference/PreferenceActivity$HeaderAdapter.smali	2014-04-22 17:17:47.933463101 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/preference/PreferenceActivity$HeaderAdapter.smali	2014-04-22 17:16:07.837463645 +0800
 ***************
 *** 81,91 ****
   

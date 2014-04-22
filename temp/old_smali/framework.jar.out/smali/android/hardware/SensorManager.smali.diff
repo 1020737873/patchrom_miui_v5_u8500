@@ -1,5 +1,5 @@
-*** ./smali/android/hardware/SensorManager.smali	2014-04-01 01:04:57.250474805 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/hardware/SensorManager.smali	2014-04-01 01:03:13.178475371 +0800
+*** ./smali/android/hardware/SensorManager.smali	2014-04-22 17:18:37.893462829 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/hardware/SensorManager.smali	2014-04-22 17:16:54.117463394 +0800
 ***************
 *** 240,245 ****
 --- 240,249 ----

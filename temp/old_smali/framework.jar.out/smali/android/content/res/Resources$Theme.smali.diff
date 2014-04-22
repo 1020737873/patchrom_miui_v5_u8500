@@ -1,5 +1,5 @@
-*** ./smali/android/content/res/Resources$Theme.smali	2014-04-01 01:04:35.890474920 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources$Theme.smali	2014-04-01 01:02:52.650475481 +0800
+*** ./smali/android/content/res/Resources$Theme.smali	2014-04-22 17:18:16.881462944 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/res/Resources$Theme.smali	2014-04-22 17:16:33.785463504 +0800
 ***************
 *** 136,142 ****
   

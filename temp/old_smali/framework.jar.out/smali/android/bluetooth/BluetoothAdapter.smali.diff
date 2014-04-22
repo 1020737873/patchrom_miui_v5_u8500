@@ -1,5 +1,5 @@
-*** ./smali/android/bluetooth/BluetoothAdapter.smali	2014-04-01 01:05:03.138474773 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/bluetooth/BluetoothAdapter.smali	2014-04-01 01:03:17.974475345 +0800
+*** ./smali/android/bluetooth/BluetoothAdapter.smali	2014-04-22 17:18:43.097462801 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/bluetooth/BluetoothAdapter.smali	2014-04-22 17:16:59.029463367 +0800
 ***************
 *** 1064,1069 ****
 --- 1064,1172 ----

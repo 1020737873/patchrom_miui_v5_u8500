@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/wm/WindowState.smali	2014-04-01 01:03:39.278475229 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowState.smali	2014-04-01 01:01:56.778475785 +0800
+*** ./smali/com/android/server/wm/WindowState.smali	2014-04-22 17:17:21.421463245 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/wm/WindowState.smali	2014-04-22 17:15:42.429463784 +0800
 ***************
 *** 36,41 ****
 --- 36,43 ----

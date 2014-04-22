@@ -1,5 +1,5 @@
-*** ./smali/android/content/pm/PackageItemInfo.smali	2014-04-01 01:04:37.918474910 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageItemInfo.smali	2014-04-01 01:02:54.686475470 +0800
+*** ./smali/android/content/pm/PackageItemInfo.smali	2014-04-22 17:18:19.013462932 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/pm/PackageItemInfo.smali	2014-04-22 17:16:35.861463493 +0800
 ***************
 *** 342,364 ****
   .end method

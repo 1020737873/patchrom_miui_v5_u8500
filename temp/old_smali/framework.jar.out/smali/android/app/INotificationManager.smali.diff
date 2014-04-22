@@ -1,5 +1,5 @@
-*** ./smali/android/app/INotificationManager.smali	2014-04-01 01:04:18.342475015 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/INotificationManager.smali	2014-04-01 01:02:34.534475581 +0800
+*** ./smali/android/app/INotificationManager.smali	2014-04-22 17:17:58.861463042 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/INotificationManager.smali	2014-04-22 17:16:17.677463592 +0800
 ***************
 *** 15,20 ****
 --- 15,28 ----

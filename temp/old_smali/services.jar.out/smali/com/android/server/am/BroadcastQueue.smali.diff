@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/BroadcastQueue.smali	2014-04-01 01:03:37.698475236 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/BroadcastQueue.smali	2014-04-01 01:01:55.038475796 +0800
+*** ./smali/com/android/server/am/BroadcastQueue.smali	2014-04-22 17:17:19.601463255 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/BroadcastQueue.smali	2014-04-22 17:15:40.721463793 +0800
 ***************
 *** 3828,3833 ****
 --- 3828,3839 ----

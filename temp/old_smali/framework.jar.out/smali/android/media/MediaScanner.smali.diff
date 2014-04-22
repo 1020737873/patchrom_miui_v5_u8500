@@ -1,5 +1,5 @@
-*** ./smali/android/media/MediaScanner.smali	2014-04-01 01:04:03.594475097 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/MediaScanner.smali	2014-04-01 01:02:19.530475663 +0800
+*** ./smali/android/media/MediaScanner.smali	2014-04-22 17:17:43.777463124 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/media/MediaScanner.smali	2014-04-22 17:16:03.909463667 +0800
 ***************
 *** 11,17 ****
           Landroid/media/MediaScanner$MediaBulkDeleter;,

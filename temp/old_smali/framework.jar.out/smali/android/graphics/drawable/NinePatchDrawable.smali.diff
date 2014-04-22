@@ -1,5 +1,5 @@
-*** ./smali/android/graphics/drawable/NinePatchDrawable.smali	2014-04-01 01:05:01.350474783 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/graphics/drawable/NinePatchDrawable.smali	2014-04-01 01:03:16.506475353 +0800
+*** ./smali/android/graphics/drawable/NinePatchDrawable.smali	2014-04-22 17:18:41.409462810 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/graphics/drawable/NinePatchDrawable.smali	2014-04-22 17:16:57.517463375 +0800
 ***************
 *** 218,223 ****
 --- 218,226 ----

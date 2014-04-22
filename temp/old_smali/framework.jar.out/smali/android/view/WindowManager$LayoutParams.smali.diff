@@ -1,5 +1,5 @@
-*** ./smali/android/view/WindowManager$LayoutParams.smali	2014-04-01 01:03:53.122475154 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2014-04-01 01:02:09.854475714 +0800
+*** ./smali/android/view/WindowManager$LayoutParams.smali	2014-04-22 17:17:34.193463176 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali	2014-04-22 17:15:54.609463717 +0800
 ***************
 *** 276,281 ****
 --- 276,283 ----

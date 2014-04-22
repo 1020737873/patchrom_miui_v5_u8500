@@ -1,5 +1,5 @@
-*** ./smali/android/text/StaticLayout.smali	2014-04-01 01:04:12.786475047 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/text/StaticLayout.smali	2014-04-01 01:02:28.542475614 +0800
+*** ./smali/android/text/StaticLayout.smali	2014-04-22 17:17:52.809463075 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/text/StaticLayout.smali	2014-04-22 17:16:12.429463620 +0800
 ***************
 *** 1009,1014 ****
 --- 1009,1030 ----

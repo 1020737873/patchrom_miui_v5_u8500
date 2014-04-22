@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2014-04-01 01:05:11.046474730 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2014-04-01 01:03:25.726475303 +0800
+*** ./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2014-04-22 17:18:51.145462757 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/widget/SizeAdaptiveLayout.smali	2014-04-22 17:17:06.965463324 +0800
 ***************
 *** 429,435 ****
       :cond_1

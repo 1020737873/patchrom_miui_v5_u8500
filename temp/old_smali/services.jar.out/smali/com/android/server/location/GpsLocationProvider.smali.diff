@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/location/GpsLocationProvider.smali	2014-04-01 01:03:43.986475202 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/location/GpsLocationProvider.smali	2014-04-01 01:02:02.146475756 +0800
+*** ./smali/com/android/server/location/GpsLocationProvider.smali	2014-04-22 17:17:26.365463218 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/location/GpsLocationProvider.smali	2014-04-22 17:15:47.181463758 +0800
 ***************
 *** 11,17 ****
       value = {

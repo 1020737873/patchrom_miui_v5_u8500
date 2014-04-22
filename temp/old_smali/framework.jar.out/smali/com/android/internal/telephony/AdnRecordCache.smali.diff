@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/AdnRecordCache.smali	2014-04-01 01:05:13.742474714 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecordCache.smali	2014-04-01 01:03:28.402475287 +0800
+*** ./smali/com/android/internal/telephony/AdnRecordCache.smali	2014-04-22 17:18:53.909462742 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/AdnRecordCache.smali	2014-04-22 17:17:09.697463309 +0800
 ***************
 *** 1,4 ****
 ! .class public final Lcom/android/internal/telephony/AdnRecordCache;

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/BackupManagerService$PerformFullRestoreTask.smali	2014-04-01 01:03:44.394475200 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService$PerformFullRestoreTask.smali	2014-04-01 01:02:02.642475753 +0800
+*** ./smali/com/android/server/BackupManagerService$PerformFullRestoreTask.smali	2014-04-22 17:17:26.837463216 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService$PerformFullRestoreTask.smali	2014-04-22 17:15:47.613463755 +0800
 ***************
 *** 1460,1466 ****
       move-result v7

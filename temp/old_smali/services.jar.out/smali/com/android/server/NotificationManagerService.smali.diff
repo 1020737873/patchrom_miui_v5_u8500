@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/NotificationManagerService.smali	2014-04-01 01:03:38.418475234 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/NotificationManagerService.smali	2014-04-01 01:01:55.738475792 +0800
+*** ./smali/com/android/server/NotificationManagerService.smali	2014-04-22 17:17:20.413463251 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/NotificationManagerService.smali	2014-04-22 17:15:41.489463789 +0800
 ***************
 *** 9,15 ****
           Lcom/android/server/NotificationManagerService$WorkerHandler;,

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2014-04-01 01:03:45.026475198 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2014-04-01 01:02:03.362475750 +0800
+*** ./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2014-04-22 17:17:27.529463212 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali	2014-04-22 17:15:48.313463752 +0800
 ***************
 *** 1716,1727 ****
   .method public handleMessage(Landroid/os/Message;)V

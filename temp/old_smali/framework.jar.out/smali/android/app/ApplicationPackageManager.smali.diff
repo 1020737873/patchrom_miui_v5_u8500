@@ -1,5 +1,5 @@
-*** ./smali/android/app/ApplicationPackageManager.smali	2014-04-01 01:04:15.306475033 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager.smali	2014-04-01 01:02:31.066475600 +0800
+*** ./smali/android/app/ApplicationPackageManager.smali	2014-04-22 17:17:55.509463060 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ApplicationPackageManager.smali	2014-04-22 17:16:14.777463608 +0800
 ***************
 *** 1394,1410 ****
       goto :goto_0

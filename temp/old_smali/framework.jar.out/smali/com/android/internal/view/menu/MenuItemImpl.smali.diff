@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/view/menu/MenuItemImpl.smali	2014-04-01 01:05:06.250474756 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/MenuItemImpl.smali	2014-04-01 01:03:20.786475328 +0800
+*** ./smali/com/android/internal/view/menu/MenuItemImpl.smali	2014-04-22 17:18:46.189462784 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/view/menu/MenuItemImpl.smali	2014-04-22 17:17:01.925463351 +0800
 ***************
 *** 895,900 ****
 --- 895,926 ----

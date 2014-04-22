@@ -1,5 +1,5 @@
-*** ./smali/android/app/LoadedApk.smali	2014-04-01 01:04:16.342475026 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2014-04-01 01:02:32.186475594 +0800
+*** ./smali/android/app/LoadedApk.smali	2014-04-22 17:17:56.657463054 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/LoadedApk.smali	2014-04-22 17:16:15.785463602 +0800
 ***************
 *** 1753,1769 ****
   .end method

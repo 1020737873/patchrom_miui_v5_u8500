@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/PhoneWindowManager$17$1.smali	2014-04-01 01:03:35.082475252 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager$17$1.smali	2014-04-01 01:01:52.018475811 +0800
+*** ./smali/com/android/internal/policy/impl/PhoneWindowManager$17$1.smali	2014-04-22 17:17:16.673463271 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager$17$1.smali	2014-04-22 17:15:37.885463808 +0800
 ***************
 *** 19,33 ****
   

@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/CallerInfoAsyncQuery.smali	2014-04-01 01:05:18.154474690 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/CallerInfoAsyncQuery.smali	2014-04-01 01:03:32.438475265 +0800
+*** ./smali/com/android/internal/telephony/CallerInfoAsyncQuery.smali	2014-04-22 17:18:57.873462721 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/CallerInfoAsyncQuery.smali	2014-04-22 17:17:14.077463285 +0800
 ***************
 *** 10,16 ****
           Lcom/android/internal/telephony/CallerInfoAsyncQuery$CallerInfoAsyncQueryHandler;,

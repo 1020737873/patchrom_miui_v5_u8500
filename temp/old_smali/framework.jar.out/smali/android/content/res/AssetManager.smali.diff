@@ -1,5 +1,5 @@
-*** ./smali/android/content/res/AssetManager.smali	2014-04-01 01:04:36.174474918 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/res/AssetManager.smali	2014-04-01 01:02:52.810475482 +0800
+*** ./smali/android/content/res/AssetManager.smali	2014-04-22 17:18:17.065462943 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/content/res/AssetManager.smali	2014-04-22 17:16:33.969463503 +0800
 ***************
 *** 94,99 ****
 --- 94,102 ----

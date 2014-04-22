@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/app/LocalePicker.smali	2014-04-01 01:05:07.922474747 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/app/LocalePicker.smali	2014-04-01 01:03:22.454475319 +0800
+*** ./smali/com/android/internal/app/LocalePicker.smali	2014-04-22 17:18:47.969462775 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/app/LocalePicker.smali	2014-04-22 17:17:03.753463341 +0800
 ***************
 *** 64,69 ****
 --- 64,73 ----

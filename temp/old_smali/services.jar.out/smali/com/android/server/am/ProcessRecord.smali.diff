@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ProcessRecord.smali	2014-04-01 01:03:37.458475239 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ProcessRecord.smali	2014-04-01 01:01:54.750475796 +0800
+*** ./smali/com/android/server/am/ProcessRecord.smali	2014-04-22 17:17:19.301463257 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ProcessRecord.smali	2014-04-22 17:15:40.413463795 +0800
 ***************
 *** 221,226 ****
 --- 221,228 ----

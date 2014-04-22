@@ -1,5 +1,5 @@
-*** ./smali/android/app/ActivityManager.smali	2014-04-01 01:04:18.698475014 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ActivityManager.smali	2014-04-01 01:02:35.062475577 +0800
+*** ./smali/android/app/ActivityManager.smali	2014-04-22 17:17:59.253463040 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/ActivityManager.smali	2014-04-22 17:16:18.005463590 +0800
 ***************
 *** 69,74 ****
 --- 69,76 ----

@@ -1,5 +1,5 @@
-*** ./smali/android/widget/QuickContactBadge$QueryHandler.smali	2014-04-01 01:04:28.278474961 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/QuickContactBadge$QueryHandler.smali	2014-04-01 01:02:45.478475520 +0800
+*** ./smali/android/widget/QuickContactBadge$QueryHandler.smali	2014-04-22 17:18:08.725462988 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/QuickContactBadge$QueryHandler.smali	2014-04-22 17:16:26.737463543 +0800
 ***************
 *** 39,44 ****
 --- 39,47 ----

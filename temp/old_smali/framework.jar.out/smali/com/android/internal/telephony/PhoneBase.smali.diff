@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/telephony/PhoneBase.smali	2014-04-01 01:05:12.654474720 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneBase.smali	2014-04-01 01:03:27.278475293 +0800
+*** ./smali/com/android/internal/telephony/PhoneBase.smali	2014-04-22 17:18:52.841462748 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/telephony/PhoneBase.smali	2014-04-22 17:17:08.573463315 +0800
 ***************
 *** 3515,3517 ****
 --- 3515,3575 ----

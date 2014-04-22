@@ -1,5 +1,5 @@
-*** ./smali/android/app/INotificationManager$Stub$Proxy.smali	2014-04-01 01:04:17.550475021 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/INotificationManager$Stub$Proxy.smali	2014-04-01 01:02:33.718475584 +0800
+*** ./smali/android/app/INotificationManager$Stub$Proxy.smali	2014-04-22 17:17:57.897463047 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/app/INotificationManager$Stub$Proxy.smali	2014-04-22 17:16:16.909463596 +0800
 ***************
 *** 36,41 ****
 --- 36,109 ----

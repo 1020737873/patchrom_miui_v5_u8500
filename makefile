@@ -22,6 +22,8 @@ local-density := HDPI
 
 local-miui-removed-apps :=  
 
+local-miui-modified-apps := SettingsProvider
+
 include phoneapps.mk
 
 # To include the local targets before and after zip the final ZIP file, 

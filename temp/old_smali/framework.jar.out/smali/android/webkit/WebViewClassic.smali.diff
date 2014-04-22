@@ -1,5 +1,5 @@
-*** ./smali/android/webkit/WebViewClassic.smali	2014-04-01 01:04:22.142474996 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/webkit/WebViewClassic.smali	2014-04-01 01:02:39.034475556 +0800
+*** ./smali/android/webkit/WebViewClassic.smali	2014-04-22 17:18:02.553463022 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/webkit/WebViewClassic.smali	2014-04-22 17:16:21.069463573 +0800
 ***************
 *** 15811,15816 ****
 --- 15811,15825 ----

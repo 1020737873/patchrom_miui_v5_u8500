@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2014-04-01 01:03:45.510475195 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2014-04-01 01:02:03.830475748 +0800
+*** ./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2014-04-22 17:17:27.957463210 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/pm/ShutdownThread$CloseDialogReceiver.smali	2014-04-22 17:15:48.733463749 +0800
 ***************
 *** 50,61 ****
 --- 50,66 ----

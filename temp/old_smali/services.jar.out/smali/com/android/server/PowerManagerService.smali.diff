@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/PowerManagerService.smali	2014-04-01 01:03:42.446475212 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/PowerManagerService.smali	2014-04-01 01:02:00.386475767 +0800
+*** ./smali/com/android/server/PowerManagerService.smali	2014-04-22 17:17:24.789463227 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/PowerManagerService.smali	2014-04-22 17:15:45.681463766 +0800
 ***************
 *** 19,25 ****
           Lcom/android/server/PowerManagerService$DockReceiver;,

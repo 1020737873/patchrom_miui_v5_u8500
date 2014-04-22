@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/statusbar/IStatusBar$Stub.smali	2014-04-01 01:05:11.858474724 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/IStatusBar$Stub.smali	2014-04-01 01:03:26.486475297 +0800
+*** ./smali/com/android/internal/statusbar/IStatusBar$Stub.smali	2014-04-22 17:18:52.009462753 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/com/android/internal/statusbar/IStatusBar$Stub.smali	2014-04-22 17:17:07.765463320 +0800
 ***************
 *** 48,53 ****
 --- 48,55 ----

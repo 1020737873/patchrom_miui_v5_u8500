@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/LightsService$Light.smali	2014-04-01 01:03:44.370475200 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService$Light.smali	2014-04-01 01:02:02.610475755 +0800
+*** ./smali/com/android/server/LightsService$Light.smali	2014-04-22 17:17:26.805463216 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/LightsService$Light.smali	2014-04-22 17:15:47.593463756 +0800
 ***************
 *** 1,15 ****
 ! .class public final Lcom/android/server/LightsService$Light;

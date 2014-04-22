@@ -1,5 +1,5 @@
-*** ./smali/android/widget/AbsListView$FlingRunnable.smali	2014-04-01 01:04:31.538474945 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/AbsListView$FlingRunnable.smali	2014-04-01 01:02:48.730475504 +0800
+*** ./smali/android/widget/AbsListView$FlingRunnable.smali	2014-04-22 17:18:12.569462967 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/widget/AbsListView$FlingRunnable.smali	2014-04-22 17:16:30.017463525 +0800
 ***************
 *** 70,75 ****
 --- 70,131 ----

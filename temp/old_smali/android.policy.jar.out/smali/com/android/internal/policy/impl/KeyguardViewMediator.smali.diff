@@ -1,5 +1,5 @@
-*** ./smali/com/android/internal/policy/impl/KeyguardViewMediator.smali	2014-04-01 01:03:34.830475252 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/KeyguardViewMediator.smali	2014-04-01 01:01:51.726475814 +0800
+*** ./smali/com/android/internal/policy/impl/KeyguardViewMediator.smali	2014-04-22 17:17:16.401463273 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/android.policy.jar.out/./smali/com/android/internal/policy/impl/KeyguardViewMediator.smali	2014-04-22 17:15:37.621463810 +0800
 ***************
 *** 147,152 ****
 --- 147,155 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/am/ActivityManagerService$2.smali	2014-04-01 01:03:37.890475235 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityManagerService$2.smali	2014-04-01 01:01:55.234475795 +0800
+*** ./smali/com/android/server/am/ActivityManagerService$2.smali	2014-04-22 17:17:19.793463254 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/am/ActivityManagerService$2.smali	2014-04-22 17:15:40.897463792 +0800
 ***************
 *** 164,169 ****
 --- 164,181 ----

@@ -1,5 +1,5 @@
-*** ./smali/com/android/server/BackupManagerService$PerformFullBackupTask.smali	2014-04-01 01:03:42.478475210 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService$PerformFullBackupTask.smali	2014-04-01 01:02:00.418475766 +0800
+*** ./smali/com/android/server/BackupManagerService$PerformFullBackupTask.smali	2014-04-22 17:17:24.821463227 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/services.jar.out/./smali/com/android/server/BackupManagerService$PerformFullBackupTask.smali	2014-04-22 17:15:45.713463766 +0800
 ***************
 *** 1745,1767 ****
       check-cast v19, Landroid/content/pm/PackageInfo;

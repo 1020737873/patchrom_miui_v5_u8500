@@ -1,5 +1,5 @@
-*** ./smali/android/nfc/NfcManager.smali	2014-04-01 01:04:58.142474800 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/nfc/NfcManager.smali	2014-04-01 01:03:13.798475366 +0800
+*** ./smali/android/nfc/NfcManager.smali	2014-04-22 17:18:38.597462826 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/nfc/NfcManager.smali	2014-04-22 17:16:54.805463390 +0800
 ***************
 *** 64,66 ****
 --- 64,79 ----

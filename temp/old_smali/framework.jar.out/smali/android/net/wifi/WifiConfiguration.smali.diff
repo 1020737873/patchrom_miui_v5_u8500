@@ -1,5 +1,5 @@
-*** ./smali/android/net/wifi/WifiConfiguration.smali	2014-04-01 01:04:48.558474851 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration.smali	2014-04-01 01:03:05.014475414 +0800
+*** ./smali/android/net/wifi/WifiConfiguration.smali	2014-04-22 17:18:29.973462872 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/net/wifi/WifiConfiguration.smali	2014-04-22 17:16:46.325463436 +0800
 ***************
 *** 120,129 ****
 --- 120,159 ----

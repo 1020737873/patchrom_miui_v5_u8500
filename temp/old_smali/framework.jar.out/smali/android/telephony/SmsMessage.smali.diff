@@ -1,5 +1,5 @@
-*** ./smali/android/telephony/SmsMessage.smali	2014-04-01 01:04:59.258474794 +0800
---- /home/xiangxin/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/telephony/SmsMessage.smali	2014-04-01 01:03:14.918475360 +0800
+*** ./smali/android/telephony/SmsMessage.smali	2014-04-22 17:18:39.717462819 +0800
+--- /home/xinxin520/patchrom/miuiv5/u8500/temp/new_smali/framework.jar.out/./smali/android/telephony/SmsMessage.smali	2014-04-22 17:16:55.885463384 +0800
 ***************
 *** 825,830 ****
 --- 825,839 ----
