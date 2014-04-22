@@ -1,0 +1,4 @@
+out/*
+framework2.jar.out/*
+*.zip
+.delete-zip-file-when-clean

@@ -43,3 +43,4 @@ local-zip-misc:
 	# fix QHDPI
 	cp other/theme/default/* $(ZIP_DIR)/system/media/theme/default
 	cp other/build.prop $(ZIP_DIR)/system/build.prop
+	cp other/app/* $(ZIP_DIR)/system/app
